@@ -1,3 +1,54 @@
+commit dc2b21d9775d326af15f128187d722c3a6e40e23
+Merge: 0851754 15978f5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Sep 14 02:08:55 2026 -0400
+
+    Merge remote-tracking branch 'refs/remotes/ArrayBolt3/arraybolt3/trixie'
+
+commit 15978f5e22997ffef52a35ec2b169c8332ce5315
+Merge: 0851754 f68b0da
+Author: Aaron Rainbolt <arraybolt3@gmail.com>
+Date:   Sun Sep 13 16:31:03 2026 -0400
+
+    Merge branch 'ai' into arraybolt3/trixie
+
+commit f68b0daaf7d49f0f92b3e82f841ff9f89a02d56c
+Merge: e472efe a573e88
+Author: claude <noreply@anthropic.com>
+Date:   Tue Sep 8 13:07:18 2026 -0400
+
+    Merge branch 'master' into ai
+
+commit a573e88f13bdcc2bba9837b6c670f26b990df119
+Merge: 0851754 e472efe
+Author: assisted-by-ai (Bot Account) (Machine Account) <228987186+assisted-by-ai@users.noreply.github.com>
+Date:   Mon Sep 7 22:12:58 2026 -0400
+
+    Merge pull request #3 from org-ai-assisted/ai
+
+    rename has.sh -> has.bsh (bashism convention)
+
+commit e472efe457e516c31c6fbc8ea5b3b5f371644c01
+Author: claude (dev474 c7439536-fad8-4884-b71a-d2f3c4c23905) <noreply@anthropic.com>
+Date:   Mon Sep 7 11:43:22 2026 -0400
+
+    rename has.sh to has.bsh (bashism convention)
+
+    Sourced helper-scripts lib uses bashisms; .bsh marks it. Path-only edit.
+
+commit ea1e2fac44e0ccfdf351c72a52e9386fff3257cf
+Merge: 9473e9c 0851754
+Author: claude (dev474 c7439536-fad8-4884-b71a-d2f3c4c23905) <noreply@anthropic.com>
+Date:   Mon Sep 7 11:43:22 2026 -0400
+
+    Merge branch 'master' into ai
+
+commit 085175482755cbe9aeebad036e31c0d6dfba8dd0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Sep 6 16:29:47 2026 +0000
+
+    bumped changelog version
+
 commit 6b2bff65f946f561c8419673a80cb8b3fc5563a5
 Merge: 6ee09f0 8420afd
 Author: Patrick Schleizer <adrelanos@whonix.org>
